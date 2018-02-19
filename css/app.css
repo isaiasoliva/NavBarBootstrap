@@ -1,0 +1,12 @@
+#header-contenedor{
+    background-color: #3F51B5;
+    color: white;
+}
+
+.navbar-nav li > a{
+    color: #9fa8da !important;
+}
+
+.navbar-nav li > a:hover{
+    color: white !important;
+}
